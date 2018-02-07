@@ -1,0 +1,17 @@
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\bin\Debug\NDSU_UCS_App.exe.config
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\bin\Debug\NDSU_UCS_App.exe.manifest
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\bin\Debug\NDSU_UCS_App.application
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\bin\Debug\NDSU_UCS_App.exe
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\bin\Debug\NDSU_UCS_App.pdb
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.Control.MemberControl.resources
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.DeleteMemberForm.resources
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.MemberTransactionsForm.resources
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.NewMemberForm.resources
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.Properties.Resources.resources
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.exe.manifest
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.application
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.exe
+D:\Visual Studio Projects\NDSU_UCS_App\NDSU_UCS_App\obj\Debug\NDSU_UCS_App.pdb
